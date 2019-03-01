@@ -63,6 +63,7 @@ return [
             'prefix'    => '',
             'strict'    => false,
             'engine'    => null,
+            //'unix_socket' => '/var/run/mysqld/mysqld.sock', //add this when error pdo conn
         ],
 
         'pgsql' => [
