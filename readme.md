@@ -5,7 +5,7 @@
     + mysql
    
 ## Technology stacks
-    	+ php 5.*
+    + php 5.*
 	+ laravel
 	+ composer
 	+ mysql
